@@ -17,6 +17,6 @@
     "typechain": "file:../../packages/typechain"
   },
   "dependencies": {
-    "web3": "^1.2.6"
+    "web3": "^1.7.5"
   }
 }
